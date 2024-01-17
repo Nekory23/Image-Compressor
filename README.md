@@ -30,7 +30,3 @@ Grade : A | Mark : 17.3
 | Error handling | 100%       | 4/4       | x       |
 | Coding Style   | 75%        | 3/4       | x       |
 | **End score**  | **94.2%**  | **49/52** | **No**  |
-
-Made with Quentin TREHEUX ([LuciferBahamut](https://github.com/LuciferBahamut))
-
-Beware of -42 Epitech students !!!
